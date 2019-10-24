@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="df9f1875-e3ff-420e-80d4-4f337fd9566e" name="Default Changelist" comment="" />
+    <list default="true" id="df9f1875-e3ff-420e-80d4-4f337fd9566e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/video-streaming.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/video-streaming/com/pereira/rodrigo/Client$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/video-streaming/com/pereira/rodrigo/Client$pauseButtonListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/video-streaming/com/pereira/rodrigo/Client$playButtonListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/video-streaming/com/pereira/rodrigo/Client$setupButtonListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/video-streaming/com/pereira/rodrigo/Client$tearButtonListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/video-streaming/com/pereira/rodrigo/Client$timerListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/video-streaming/com/pereira/rodrigo/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/video-streaming/com/pereira/rodrigo/RTPpacket.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/video-streaming/com/pereira/rodrigo/Server$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/video-streaming/com/pereira/rodrigo/Server.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/video-streaming/com/pereira/rodrigo/VideoStream.class" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,9 +34,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
+        <option name="jdkForImporter" value="#JAVA_HOME" />
         <option name="vmOptionsForImporter" value="-Xmx768m" />
       </MavenImportingSettings>
     </option>
@@ -29,6 +49,7 @@
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1SUmuxbEFkMNBngJ6nRxpiaH3Kd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -134,25 +155,15 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/pereira/rodrigo/Server.java</url>
-          <line>139</line>
-          <option name="timeStamp" value="32" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/pereira/rodrigo/Client.java</url>
-          <line>189</line>
-          <option name="timeStamp" value="34" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/pereira/rodrigo/Client.java</url>
-          <line>184</line>
-          <option name="timeStamp" value="35" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
